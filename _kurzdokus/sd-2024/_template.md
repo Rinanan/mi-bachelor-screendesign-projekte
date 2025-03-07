@@ -1,6 +1,6 @@
 ---
 title: Redesign für den redaktionellen Bereich des Cranach Digital Archive
-people:
+people: Rina
     - 
     - 
 teaserimage: 
